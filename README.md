@@ -9,15 +9,15 @@
 **Main features:**
 
 - View image files from the memory of an android smartphone 
-- Zoom in and zoom out images
+- Zoom in or zoom out of an image
 - Sort images by date and time
 - View image properties
-- Crop images
-- Rotate images
-- Change brightness of the images
-- Change contrast of the images
-- Change saturation of the images
-- Change hue of the images
+- Crop an images
+- Rotate an images
+- Change brightness of an image
+- Change contrast of an image
+- Change saturation of an image
+- Change hue of an image
 
 **Operating System:** Android 8.0 or above
 
@@ -27,7 +27,7 @@ Install Android Studio.
 
 **Written in:** Java
 
-**Tools/framework used:** Android Studio, Storage Access Framework (SAF), OpenCV4Android SDK/ JavaCV API
+**Tools/framework used:** Android Studio, Storage Access Framework(SAF), OpenCV4Android SDK/ JavaCV API
 
 **References:** None
 
