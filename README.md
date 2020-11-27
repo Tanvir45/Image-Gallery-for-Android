@@ -1,12 +1,12 @@
 # Image-Gallery-for-Android
 
-App Name: Image Gallery
+##App Name: Image Gallery
 
-Description: An app that lets you view images and edit them
+**Description**: An app that lets you view images and edit them
 
-Type of app: Stand-alone application
+**Type of App**: Stand-alone application
 
-Main features:
+**Main features:**
 
 - View image files from the memory of an android smartphone 
 - Zoom in and zoom out images
@@ -19,17 +19,17 @@ Main features:
 - Increase or decrease saturation of the images
 - Change hue of the images
 
-Operating System: Android 8.0 or above
+**Operating System:** Android 8.0 or above
 
-How to use: 
+**How to use:**
 Install Java SE Development Kit 8.
 Install Android Studio.
 
-Written in: Java
+**Written in:** Java
 
-Tools/framework used: Android Studio, Storage Access Framework (SAF), OpenCV4Android SDK/ JavaCV API
+**Tools/framework used:** Android Studio, Storage Access Framework (SAF), OpenCV4Android SDK/ JavaCV API
 
-References: None
+**References:** None
 
-Developer: 
-Tanvir Ahmed Mazumder(1620742042)
+**Developer:** 
+Tanvir Ahmed Mazumder(1620742042
