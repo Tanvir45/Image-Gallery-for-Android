@@ -12,12 +12,12 @@
 - Zoom in or zoom out of an image
 - Sort images by date and time
 - View image properties
-- Crop an images
-- Rotate an images
-- Change brightness of an image
-- Change contrast of an image
-- Change saturation of an image
-- Change hue of an image
+- Crop an image
+- Rotate an image
+- Change the brightness of an image
+- Change the contrast of an image
+- Change the saturation of an image
+- Change the hue of an image
 
 **Operating System:** Android 8.0 or above
 
