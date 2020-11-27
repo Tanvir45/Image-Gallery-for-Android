@@ -14,9 +14,9 @@
 - View image properties
 - Crop images
 - Rotate images
-- Increase or decrease brightness of the images
-- Increase or decrease contrast of the images
-- Increase or decrease saturation of the images
+- Change brightness of the images
+- Change contrast of the images
+- Change saturation of the images
 - Change hue of the images
 
 **Operating System:** Android 8.0 or above
