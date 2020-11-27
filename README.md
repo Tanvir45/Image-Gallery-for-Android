@@ -1,6 +1,6 @@
 # Image-Gallery-for-Android
 
-##App Name: Image Gallery
+## App Name: Image Gallery
 
 **Description**: An app that lets you view images and edit them
 
@@ -32,4 +32,4 @@ Install Android Studio.
 **References:** None
 
 **Developer:** 
-Tanvir Ahmed Mazumder(1620742042
+Tanvir Ahmed Mazumder(1620742042)
